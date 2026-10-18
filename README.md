@@ -29,3 +29,7 @@ Com a inteligência artificial e o desenvolvimento assistido por código, escrev
 - Exercícios em cada capítulo, com gabarito comentado dos principais
 - Um projeto prático completo, roteiro de estudos e glossário
 - Versões em PDF (leitura) e DOCX (edição)
+
+## Importante
+
+TOTVS, Protheus e ADVPL são marcas de propriedade da TOTVS S.A. e são citadas neste livro apenas para fins de identificação. Esta é uma obra independente, sem vínculo, patrocínio ou endosso da TOTVS.
